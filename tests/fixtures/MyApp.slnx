@@ -1,0 +1,4 @@
+<SlnX>
+  <Project Path="src/MyApp/MyApp.csproj" />
+  <Project Path="tests/MyApp.Tests/MyApp.Tests.csproj" />
+</SlnX>

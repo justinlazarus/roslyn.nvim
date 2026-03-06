@@ -1,0 +1,2 @@
+-- Auto-load: register the LSP config so lsp/roslyn.lua is discovered.
+-- Users still need to call require('roslyn').setup() to enable the server.

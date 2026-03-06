@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "MyApp.sln",
+    "projects": [
+      "src\\MyApp\\MyApp.csproj"
+    ]
+  }
+}
